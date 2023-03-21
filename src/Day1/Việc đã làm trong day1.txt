@@ -1,0 +1,24 @@
+Java Basic
+- Variables
+- Data Types
+- Working with array
+- Control Flow with if-else, switch case
+
+Understanding Method in Java
+- Method in Java
+- Method visibility
+- Understanding instance vs static
+
+Understanding Object Oriented
+- Basic OOP
+- Class and Object
+- Stack + Heap , reference variables
+
+File Processing and Exception Handling
+- File Processing with exeption handling
+- Buffered File Reader with Try Catch and Finally
+
+The Collections Framework
+- Collections
+- Traversing Lists and Custom Types
+- Collection Methods and Using the Comparable Interface
